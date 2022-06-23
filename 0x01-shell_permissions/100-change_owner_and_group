@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff $(find . -typed,f)
+chown vincent:staff $(find . -type d,f)
