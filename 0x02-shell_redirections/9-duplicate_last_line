@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n 14p iacta
+head -n 14 iacta | tail -n 1
